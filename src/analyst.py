@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Load Data
-df = pd.read_csv("./data/DataCoSupplyChainDataset_Cleaned.csv")
+df = pd.read_csv("./data/DataCoSupplyChainDataset_Cleaned_new.csv")
 print(df.head())
 
 ### Analyst Profit ###
